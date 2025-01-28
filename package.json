@@ -1,0 +1,18 @@
+{
+  "name": "jobmatchai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "EricTech",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "apify-client": "^2.11.1",
+    "dotenv": "^16.4.7",
+    "googleapis": "^144.0.0",
+    "openai": "^4.80.1"
+  }
+}
